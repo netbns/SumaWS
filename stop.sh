@@ -1,3 +1,4 @@
-docker stop sumpai
-docker rm sumapi --force
-docker rmi sumapi --force
+docker stop ntebns/sumapi
+docker stop sumapi
+docker rm ntebns/sumapi --force
+docker rmi ntebns/sumapi --force
